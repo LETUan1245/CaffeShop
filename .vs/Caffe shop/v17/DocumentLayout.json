@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF02919-A8B6-5A4B-30A5-AFD924936F56}|Assembly-CSharp.csproj|f:\\unity\\hoctapa\\nav\\navmesh2\\caffe\\caffe shop\\assets\\script\\goap\\khach hang\\action_waitandgohome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF02919-A8B6-5A4B-30A5-AFD924936F56}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goap\\khach hang\\action_waitandgohome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF02919-A8B6-5A4B-30A5-AFD924936F56}|Assembly-CSharp.csproj|F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\assets\\script\\goap\\khach hang\\action_drinkcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF02919-A8B6-5A4B-30A5-AFD924936F56}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goap\\khach hang\\action_drinkcoffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF02919-A8B6-5A4B-30A5-AFD924936F56}|Assembly-CSharp.csproj|f:\\unity\\hoctapa\\nav\\navmesh2\\caffe\\caffe shop\\assets\\script\\goap\\khach hang\\action_findtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF02919-A8B6-5A4B-30A5-AFD924936F56}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goap\\khach hang\\action_findtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Action_FindTable.cs",
+              "DocumentMoniker": "F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\Assets\\Script\\GOAP\\Khach hang\\Action_FindTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GOAP\\Khach hang\\Action_FindTable.cs",
+              "ToolTip": "F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\Assets\\Script\\GOAP\\Khach hang\\Action_FindTable.cs",
+              "RelativeToolTip": "Assets\\Script\\GOAP\\Khach hang\\Action_FindTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T04:58:10.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Action_WaitAndGoHome.cs",
+              "DocumentMoniker": "F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\Assets\\Script\\GOAP\\Khach hang\\Action_WaitAndGoHome.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GOAP\\Khach hang\\Action_WaitAndGoHome.cs",
+              "ToolTip": "F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\Assets\\Script\\GOAP\\Khach hang\\Action_WaitAndGoHome.cs",
+              "RelativeToolTip": "Assets\\Script\\GOAP\\Khach hang\\Action_WaitAndGoHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T04:47:49.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Action_DrinkCoffee.cs",
+              "DocumentMoniker": "F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\Assets\\Script\\GOAP\\Khach hang\\Action_DrinkCoffee.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GOAP\\Khach hang\\Action_DrinkCoffee.cs",
+              "ToolTip": "F:\\Unity\\HoctapA\\Nav\\NavMesh2\\Caffe\\Caffe shop\\Assets\\Script\\GOAP\\Khach hang\\Action_DrinkCoffee.cs",
+              "RelativeToolTip": "Assets\\Script\\GOAP\\Khach hang\\Action_DrinkCoffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T04:47:24.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
