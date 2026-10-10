@@ -101,8 +101,8 @@
     <Compile Include="Assets\Script\StateMachine\State.cs" />
     <Compile Include="Assets\Script\GOAP\Nhan vien ca phe\BaristaAgent.cs" />
     <Compile Include="Assets\Script\StateMachine\Customer\CustomerSittingState.cs" />
-    <Compile Include="Assets\Script\GOAP\Khach hang\Action_FindTable.cs" />
     <Compile Include="Assets\ThirdParty\CoffeeShopStarterPack\Scripts\HeatableProduct.cs" />
+    <Compile Include="Assets\Script\GOAP\Khach hang\Action_FindTable.cs" />
     <Compile Include="Assets\Script\Food\FoodDisplay.cs" />
     <Compile Include="Assets\Script\StateMachine\Customer\CustomerMoveState.cs" />
     <Compile Include="Assets\ThirdParty\CoffeeShopStarterPack\Scripts\DeleteProductOnSlot.cs" />
