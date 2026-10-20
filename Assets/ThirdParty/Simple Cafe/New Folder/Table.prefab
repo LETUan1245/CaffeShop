@@ -1498,6 +1498,7 @@ GameObject:
   - component: {fileID: 119407219493521076}
   - component: {fileID: 8487190730358674642}
   - component: {fileID: 5813530334517563726}
+  - component: {fileID: 2169494581917061791}
   m_Layer: 0
   m_Name: table
   m_TagString: Untagged
@@ -1597,6 +1598,23 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6317805809608689028, guid: 51d55a3cdc49074449ab1d58b5dddafc, type: 3}
+--- !u!114 &2169494581917061791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8933662523149188543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765ba2413c2494642931884c5d1ad90f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foodItems:
+  - {fileID: 5803504432136602637}
+  - {fileID: 2061594885402113658}
+  - {fileID: 4526242892968791500}
+  - {fileID: 5981658856691137650}
 --- !u!1 &9030385437739516432
 GameObject:
   m_ObjectHideFlags: 0
@@ -1606,7 +1624,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8749554136459990249}
-  - component: {fileID: 6501959535258707893}
   m_Layer: 0
   m_Name: Table
   m_TagString: Untagged
@@ -1636,20 +1653,3 @@ Transform:
   - {fileID: 5986690753540328100}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6501959535258707893
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9030385437739516432}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 765ba2413c2494642931884c5d1ad90f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  foodItems:
-  - {fileID: 5803504432136602637}
-  - {fileID: 2061594885402113658}
-  - {fileID: 4526242892968791500}
-  - {fileID: 5981658856691137650}
