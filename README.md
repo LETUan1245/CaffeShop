@@ -12,3 +12,4 @@
 * **Quản lý phiên bản:** Git & GitHub (Git LFS)
 
 * Lưu ý:Vì mỗi loại máy thì cấu hình khác nhau,cpu,ram,ssd, có thể lúc test có thể không giống trong video,có thể bug.
+* Khi unity hãy vào Scenes có tên DecorativeScene
