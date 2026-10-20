@@ -1,9 +1,9 @@
 # ☕CaffeShop
 
-> **Tóm tắt:** Dự án xây dựng hệ thống Lập kế hoạch hành động hướng mục tiêu.
+> **Tóm tắt:** Dự án xây dựng hệ thống Lập kế hoạch hành động hướng mục tiêu + FSM.
 
 ## 📸 Video Demo thực tế
-* 🔗 **Video Gameplay** []
+* 🔗 **Video Gameplay** [https://youtu.be/fDe7yKMTYi4]
 
 ## 🛠️ Công nghệ sử dụng
 * **Engine:** Unity `6000.0.50f1`
